@@ -1,5 +1,3 @@
-This is the game part of project 2 of csc4243 class.
-
 Use index.html to start up the game in a monitor with >= 1680 x 1050.
 Hit F11 to go fullscreen.
 Use arrows to move Hero1.  (Hero2 is w,z,s,a; Hero3 is r,c,f,d)
